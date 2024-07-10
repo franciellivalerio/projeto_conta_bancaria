@@ -1,4 +1,4 @@
-export class conta{
+export  abstract class conta{
 
     // Definir os Atributos da classe (caracteristicas do meu objeto)
     
